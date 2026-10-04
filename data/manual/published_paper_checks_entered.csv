@@ -1,0 +1,16 @@
+check,source,measure,value
+lopez_discectomy,Lopez 2020 Spine J,reported_change_2012_2017,-0.235
+lopez_discectomy,Part B provider file (data.cms.gov API HCPCS 63030),provider_file_2013,24832
+lopez_discectomy,Part B provider file (data.cms.gov API HCPCS 63030),provider_file_2017,19030
+lopez_discectomy,Part B provider file (data.cms.gov API HCPCS 63030),provider_file_2022,8253
+lopez_discectomy,PSPS complete,complete_2013,32722
+lopez_discectomy,PSPS complete,complete_2017,28035
+lopez_discectomy,PSPS complete,complete_2022,16993
+ng_cda,Ng 2026 Orthopedics,reported_inpatient_drg518_change,-0.903
+ng_cda,Ng 2026 Orthopedics,reported_outpatient_change,10.16
+ng_cda,CMS geography file,complete_drg518_2016,3912
+ng_cda,CMS geography file,complete_drg518_2022,2052
+ng_cda,CMS provider file published rows,published_drg518_2016,867
+ng_cda,CMS provider file published rows,published_drg518_2022,84
+ng_cda,PSPS complete,complete_cda_2016,649
+ng_cda,PSPS complete,complete_cda_2022,1252

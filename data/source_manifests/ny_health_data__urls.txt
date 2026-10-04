@@ -1,0 +1,6 @@
+# New York State Department of Health open data (health.data.ny.gov); save as data/raw/ny_<id>.csv
+# SPARCS de-identified inpatient discharges, one dataset per year, are fetched by 01_download_sparcs.py
+# Hospital Inpatient Discharges by Facility (SPARCS De-Identified): Beginning 2009
+https://health.data.ny.gov/api/views/ivw2-k53g/rows.csv?accessType=DOWNLOAD
+# Health Facility General Information
+https://health.data.ny.gov/api/views/vn5v-hh5r/rows.csv?accessType=DOWNLOAD

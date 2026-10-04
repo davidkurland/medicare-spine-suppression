@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or these crosswalks, please cite the archived release."
+title: "Code and crosswalks for: Where Did the Spine Surgery Go? Small-Cell Suppression, Medicare Advantage, and Pooled Episode Pricing in Medicare Inpatient Spine Surgery, 2013-2024"
+type: dataset
+version: v1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Kurland
+    given-names: David B.
+    affiliation: "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"
+  - family-names: Sastry
+    given-names: Rahul
+    affiliation: "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"
+  - family-names: Niu
+    given-names: Tianyi
+    affiliation: "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"
+  - family-names: Oyelese
+    given-names: Adetokunbo
+    affiliation: "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"
+keywords:
+  - "Medicare"
+  - "small-cell suppression"
+  - "Medicare Advantage"
+  - "spinal fusion"
+  - "bundled payments"
+  - "Transforming Episode Accountability Model"
+  - "health services research"

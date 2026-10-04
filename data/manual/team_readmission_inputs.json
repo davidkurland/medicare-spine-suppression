@@ -1,0 +1,32 @@
+{
+  "note": "Readmission inputs read by team_addons.py, which adds measured professional fees and readmissions to simulated TEAM episode spending. Readmissions are a sensitivity range, not a point estimate: no source gives a Medicare 30-day readmission rate for posterior cervical fusion, and none gives a Medicare payment per readmission after cervical fusion. In every scenario posterior cervical fusion is given the SAME rate as inpatient ACDF. That is conservative for our result: in NSQIP, posterior cervical fusion readmits about 2.5 times as often as ACDF (8.6% vs 3.4%, Furst 2026, PMID 42007526; 8.8% inpatient, Song 2023, PMID 36560853). Each source below was checked against its PubMed record.",
+  "values": {
+    "rate_acdf_inpatient": {
+      "low": 0.059,
+      "base": 0.089,
+      "high": 0.101
+    },
+    "rate_acdf_outpatient": {
+      "low": 0.057,
+      "base": 0.057,
+      "high": 0.04
+    },
+    "rate_pcf": {
+      "low": 0.059,
+      "base": 0.089,
+      "high": 0.101
+    },
+    "payment_per_readmission": {
+      "low": 15033,
+      "base": 15033,
+      "high": 25371
+    }
+  },
+  "sources": {
+    "base rates": "Martin BI et al, Spine J 2026, PMID 41991104: Medicare FFS, TEAM-defined fusions 2016-2021 (cervical and lumbar combined), 30-day readmission 8.9% inpatient, 5.7% outpatient.",
+    "low rates": "Inpatient 5.9%: Siracuse BL et al, Clin Spine Surg 2020, PMID 32205517 (ACDF, all payers). Outpatient kept at the TEAM 5.7%, so the setting difference is nearly zero.",
+    "high rates": "Khalid SI et al, World Neurosurg 2019, PMID 31128307: Medicare over 65, 1-2 level ACDF, 10.1% inpatient vs 4.0% outpatient.",
+    "payment base": "Mean Medicare payment per FFS inpatient discharge, all MS-DRGs, national, 2023 (CMS Medicare Inpatient Hospitals by Geography and Service): $15,033 over 6,926,093 discharges. A proxy: the DRG mix of readmissions after cervical fusion is not known.",
+    "payment high": "Gowd AK et al, Spine 2022, PMID 36301923: mean hospital COST per readmission after ACDF, $25,371 (all payers, Nationwide Readmissions Database 2018, 90-day window). A cost, not a Medicare payment."
+  }
+}

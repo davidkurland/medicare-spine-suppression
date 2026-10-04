@@ -1,0 +1,16 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 David B. Kurland, Rahul Sastry, Tianyi Niu, Adetokunbo Oyelese
+
+The contents of `data/` are licensed under CC BY 4.0. You are free to share and
+adapt this material for any purpose, provided you give appropriate credit.
+Full text: https://creativecommons.org/licenses/by/4.0/
+
+Note on source records: no patient-level or facility-level source data are included.
+Texas Hospital Inpatient Discharge Public Use Data and HCUPnet statistics are governed
+by data use agreements permitting aggregate reporting only and are not redistributed
+here. The files in `data/manual/` are derived data: hospital crosswalks and linkage
+corrections produced by the authors from public hospital identifiers. The files in
+`data/source_manifests/` are lists of public download URLs.
+
+Code in `code/` is licensed separately under the MIT License; see LICENSE.

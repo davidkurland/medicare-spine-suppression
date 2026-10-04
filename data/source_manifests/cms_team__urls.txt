@@ -1,0 +1,4 @@
+# CMS Transforming Episode Accountability Model (TEAM), performance year 1; save under data/raw/team/
+https://www.cms.gov/priorities/innovation/files/team-py1-prlim-target-prices.xlsx
+https://www.cms.gov/files/document/team-risk-adj-prelim-target-specs.pdf
+https://www.cms.gov/files/document/team-cdi-ep-constr-specs.pdf

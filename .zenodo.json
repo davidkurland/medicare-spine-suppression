@@ -1,0 +1,26 @@
+{
+  "title": "Code and crosswalks for: Where Did the Spine Surgery Go? Small-Cell Suppression, Medicare Advantage, and Pooled Episode Pricing in Medicare Inpatient Spine Surgery, 2013-2024",
+  "description": "<p>Analysis code, hospital crosswalks and manual linkage corrections for a study of how small-cell suppression and Medicare Advantage growth distort reported surgical volume in public Medicare files, and how pooling outpatient with inpatient episodes affects fusion pricing under the Transforming Episode Accountability Model (TEAM).</p><p>The deposit contains the full analysis pipeline in Python, the hand-verified crosswalks linking New York and Indiana hospital identifiers to CMS certification numbers, and download manifests naming every public CMS file used. Rank concordance between state and CMS hospital spine volume rises from 0.07 to 0.23 under automated name matching alone to 0.76 to 0.88 after the manual corrections included here, which are the part of the work that cannot be regenerated.</p><p>No source data are redistributed. Texas Hospital Inpatient Discharge Public Use Data and HCUPnet statistics are governed by data use agreements permitting aggregate reporting only. The remaining sources are public and free, and the manifests allow the inputs to be fetched directly.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "v1.0.0",
+  "language": "eng",
+  "keywords": [
+    "Medicare",
+    "small-cell suppression",
+    "Medicare Advantage",
+    "spinal fusion",
+    "spine surgery",
+    "bundled payments",
+    "Transforming Episode Accountability Model",
+    "health services research",
+    "administrative claims"
+  ],
+  "creators": [
+    {"name": "Kurland, David B.", "affiliation": "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"},
+    {"name": "Sastry, Rahul", "affiliation": "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"},
+    {"name": "Niu, Tianyi", "affiliation": "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"},
+    {"name": "Oyelese, Adetokunbo", "affiliation": "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"}
+  ]
+}

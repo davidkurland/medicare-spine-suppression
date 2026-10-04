@@ -1,0 +1,7 @@
+from_unit,to_ccn,start_year,note
+330167,330214,2020,NYU Winthrop absent from CMS file after 2019; reported under NYU Langone Hospitals CCN
+330306,330214,2016,NYU Lutheran (Brooklyn) absent from CMS file after 2015; reported under NYU Langone Hospitals CCN
+330064,330101,2014,NYP Lower Manhattan (New York Downtown) absent after 2013; reported under NewYork-Presbyterian CCN
+330061,330101,2019,NYP Westchester campus absent after 2018; reported under NewYork-Presbyterian CCN
+pfi1446,330214,2009,NYU Hospital for Joint Diseases files under NYU Langone Hospitals CCN (automated crosswalk left unlinked)
+pfi58,330394,2009,UHS Wilson Medical Center files under UHS Hospitals CCN (automated crosswalk mismatched)

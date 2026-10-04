@@ -1,0 +1,3 @@
+# CMS-HCC risk adjustment model, 2024 Midyear/Final ICD-10-CM Mappings, from the CMS risk adjustment page;
+# unzip under data/raw/cms_hcc/mappings/
+https://www.cms.gov/medicare/payment/medicare-advantage-rates-statistics/risk-adjustment

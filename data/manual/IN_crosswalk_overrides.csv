@@ -1,0 +1,19 @@
+id,ccn,cms_name,note
+31,150017,LUTHERAN HOSPITAL OF INDIANA,fuzzy match chose Lutheran Downtown
+33,150047,LUTHERAN DOWNTOWN HOSPITAL,paired with the id 31 correction
+126,150167,ORTHOPAEDIC HOSPT.AT PARKVIEW,specialty ortho hospital has its own CCN; fuzzy match folded it into Parkview Hospital
+154,150160,INDIANA ORTHOPAEDIC HOSPITAL LLC,OrthoIndy legal name; unmatched by name
+166,150168,LUTHERAN MUSCULOSKELETAL CENTER,Orthopedic Hospital of Lutheran Health Network legal name
+430,150193,FRANCISCAN HEALTH ORTHOPEDIC CARMEL,specialty ortho hospital
+138,150074,COMMUNITY HEALTH NETWORK  INC.,Community Hospital East; verified by address (system legal name); dropped in the probable-link sensitivity scenarios
+139,150169,COMMUNITY HOSPITAL OF INDIANA  INC.,Community Hospital North; verified by address; dropped in the probable-link sensitivity scenarios
+105,150012,ST. JOSEPHS REG MED CENTER S. BEND,Saint Joseph Mishawaka Medical Center; renamed facility
+113,150035,PORTER REGIONAL HOSPITAL,Northwest Health-Porter renamed
+94,150048,REID HOSPITAL & HEALTH CARE SERVICES,Reid Health brand name
+155,150161,IU HEALTH NORTH HOSPITAL,brand prefix mismatch
+162,150173,IU HEALTH ARNETT HOSPITAL,brand prefix mismatch
+152,150158,IU HEALTH WEST HOSPITAL,brand prefix mismatch
+38,150002,METHODIST HOSPITALS  INC,Northlake campus shares system CCN
+49,150002,METHODIST HOSPITALS  INC,Southlake campus shares system CCN
+58,150146,COMMUNITY HOSPITAL OF NOBLE CTY  INC,Parkview Noble former legal name; verified by address; dropped in the probable-link sensitivity scenarios
+89,150149,DEACONESS WOMENS HOSPITAL,The Women's Hospital Newburgh

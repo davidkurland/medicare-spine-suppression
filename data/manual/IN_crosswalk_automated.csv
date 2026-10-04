@@ -1,0 +1,183 @@
+id,name,city,ccn,cms_name,cms_type,name_score,same_city,match_ok
+460,Kindred Hospital - Indianapolis South,Greenwood,152008,KINDRED HOSPITAL INDIANAPOLIS SOUTH,LTCH,1.0,True,True
+483,"Vibra Hospital of Fort Wayne, LLC",Fort Wayne,152027,VIBRA HOSP FORT WAYNE,LTCH,1.0,True,True
+44,Franciscan Health Hammond,Hammond,150004,FRANCISCAN HEALTH HAMMOND,STH,1.0,True,True
+9,Ascension St. Vincent Dunn,Bedford,151335,ASCENSION ST. VINCENT DUNN,CAH,1.0,True,True
+470,Kindred Hospital Northwest Indiana,Hammond,152012,KINDRED HOSPITAL NORTHWEST INDIANA,LTCH,1.0,True,True
+164,Heart Hospital at Deaconess Gateway,Newburgh,150175,HEART HOSPITAL AT DEACONESS GATEWAY,STH,1.0,True,True
+110,Hendricks Regional Health,Danville,150005,HENDRICKS REGIONAL HEALTH,STH,1.0,True,True
+19,Harrison County Hospital,Corydon,151331,HARRISON COUNTY HOSPITAL,CAH,1.0,True,True
+66,Greene County General Hospital,Linton,151317,GREENE COUNTY GENERAL HOSPITAL,CAH,1.0,True,True
+133,Goshen Health,Goshen,150026,GOSHEN HOSPITAL,STH,1.0,True,True
+114,Good Samaritan,Vincennes,150042,GOOD SAMARITAN HOSPITAL,STH,1.0,True,True
+92,Deaconess Gibson Hospital,Princeton,151319,DEACONESS GIBSON,CAH,1.0,True,True
+93,Franciscan Health Rensselaer,Rensselaer,151324,FRANCISCAN HEALTH RENSSELAER,CAH,1.0,True,True
+160,Franciscan Health Munster,Munster,150165,FRANCISCAN HEALTH MUNSTER,STH,1.0,True,True
+79,Franciscan Health Mooresville,Mooresville,150057,FRANCISCAN HEALTH MOORESVILLE,STH,1.0,True,True
+77,Franciscan Health Michigan City,Michigan City,150015,FRANCISCAN HEALTH MICHIGAN CITY,STH,1.0,True,True
+63,Franciscan Health Indianapolis,Indianapolis,150162,FRANCISCAN HEALTH INDIANAPOLIS,STH,1.0,True,True
+21,Franciscan Health Dyer,Dyer,150090,FRANCISCAN HEALTH- DYER,STH,1.0,True,True
+25,Franciscan Health Crown Point,Crown Point,150126,FRANCISCAN HEALTH CROWN POINT,STH,1.0,True,True
+123,Kindred Hospital Northern Indiana,Mishawaka,152018,KINDRED HOSPITAL NORTHERN INDIANA,LTCH,1.0,True,True
+463,Kindred Hospital Indianapolis North,Indianapolis,152013,KINDRED HOSPITAL INDIANAPOLIS NORTH,LTCH,1.0,True,True
+142,Kindred Hospital - Indianapolis,Indianapolis,152007,KINDRED HOSPITAL INDIANAPOLIS,LTCH,1.0,True,True
+99,Johnson Memorial Health,Franklin,150001,JOHNSON MEMORIAL HOSPITAL,STH,1.0,True,True
+18,Franciscan Health Crawfordsville,Crawfordsville,150022,FRANCISCAN HEALTH CRAWFORDSVILLE,STH,1.0,True,True
+12,Bluffton Regional Medical Center,Bluffton,150075,BLUFFTON REGIONAL MEDICAL CENTER,STH,1.0,True,True
+134,Baptist Health Floyd,New Albany,150044,BAPTIST HEALTH FLOYD,STH,1.0,True,True
+120,Ascension St. Vincent Williamsport,Williamsport,151307,ASCENSION ST. VINCENT WILLIAMSPORT,CAH,1.0,True,True
+95,Ascension St. Vincent Salem,Salem,151314,ASCENSION ST VINCENT SALEM,CAH,1.0,True,True
+121,Ascension St. Vincent Randolph,Winchester,151301,ASCENSION ST. VINCENT RANDOLPH,CAH,1.0,True,True
+24,Ascension St. Vincent Mercy,Elwood,151308,ASCENSION ST. VINCENT MERCY,CAH,1.0,True,True
+59,Ascension St. Vincent Kokomo,Kokomo,150010,ASCENSION ST. VINCENT KOKOMO,STH,1.0,True,True
+84,Ascension St. Vincent Jennings,North Vernon,151303,ASCENSION ST. VINCENT JENNINGS,CAH,1.0,True,True
+171,Ascension St. Vincent Fishers,Fishers,150181,ASCENSION ST. VINCENT FISHERS,STH,1.0,True,True
+28,Ascension St. Vincent Evansville,Evansville,150100,ASCENSION ST. VINCENT EVANSVILLE,STH,1.0,True,True
+14,Ascension St. Vincent Clay,Brazil,151309,ASCENSION ST. VINCENT CLAY,CAH,1.0,True,True
+143,Ascension St. Vincent Carmel,Carmel,150157,ASCENSION ST. VINCENT CARMEL,STH,1.0,True,True
+20,Adams Memorial Hospital,Decatur,151330,ADAMS MEMORIAL HOSPITAL,CAH,1.0,True,True
+4,"Cameron Memorial Community Hospital, Inc.",Angola,151315,CAMERON MEMORIAL COMMUNITY HOSPITAL,CAH,1.0,True,True
+16,Columbus Regional Hospital,Columbus,150112,COLUMBUS REGIONAL HOSPITAL,STH,1.0,True,True
+23,Elkhart General Hospital,Elkhart,150018,ELKHART GENERAL HOSPITAL,STH,1.0,True,True
+68,Dupont Hospital,Fort Wayne,150150,DUPONT HOSPITAL,STH,1.0,True,True
+88,Dukes Memorial Hospital,Peru,151318,DUKES MEMORIAL HOSPITAL,CAH,1.0,True,True
+119,Daviess Community Hospital,Washington,150061,DAVIESS COMMUNITY HOSPITAL,STH,1.0,True,True
+43,Community Howard Regional Health,Kokomo,150007,COMMUNITY HOWARD REGIONAL HEALTH,STH,1.0,True,True
+137,Community Hospital South,Indianapolis,150128,COMMUNITY HOSPITAL SOUTH,STH,1.0,True,True
+75,Community Hospital of Bremen,Bremen,151300,COMMUNITY HOSPITAL OF BREMEN  INC.,CAH,1.0,True,True
+87,Community Hospital Anderson,Anderson,150113,COMMUNITY HOSPITAL ANDERSON,STH,1.0,True,True
+102,Major Hospital,Shelbyville,150097,MAJOR HOSPITAL,STH,1.0,True,True
+37,Memorial Hospital and Health Care Center,Jasper,150115,MEMORIAL HOSP & HEALTH CARE CTR,STH,1.0,True,True
+3,Ascension St. Vincent Anderson,Anderson,150088,ASCENSION ST. VINCENT ANDERSON,STH,1.0,True,True
+97,Woodlawn Hospital,Rochester,151313,WOODLAWN HOSPITAL,CAH,1.0,True,True
+168,Unity Physicians Hospital,Mishawaka,150177,UNITY PHYSICIANS HOSPITAL,STH,1.0,True,True
+15,Union Hospital Clinton,Clinton,151326,UNION HOSPITAL CLINTON,CAH,1.0,True,True
+109,Union Hospital,Terre Haute,150023,UNION HOSPITAL  INC.,STH,1.0,True,True
+108,Terre Haute Regional Hospital,Terre Haute,150046,TERRE HAUTE REGIONAL,STH,1.0,True,True
+106,Sullivan County Community Hospital,Sullivan,151327,SULLIVAN COUNTY COMMUNITY HOSPITAL,CAH,1.0,True,True
+45,St. Mary Medical Center,Hobart,150034,ST. MARY MEDICAL CENTER  INC.,STH,1.0,True,True
+33,Lutheran Downtown,Fort Wayne,150047,LUTHERAN DOWNTOWN HOSPITAL,STH,1.0,True,True
+34,St. Elizabeth Dearborn,Lawrenceburg,150086,ST ELIZABETH DEARBORN,STH,1.0,True,True
+7,Indiana University Health Bedford Hospital,Bedford,151328,INDIANA UNIVERSITY HEALTH BEDFORD,CAH,1.0,True,True
+22,"St. Catherine Hospital, Inc.",East Chicago,150008,ST. CATHERINE HOSPITAL,STH,1.0,True,True
+430,Franciscan Health Orthopedic Hospital Carmel,Carmel,150193,FRANCISCAN HEALTH ORTHOPEDIC CARMEL,STH,1.0,True,True
+499,Bloomington Regional Rehabilitation Hospital,Bloomington,153049,BLOOMINGTON REGIONAL REHABILITATION,RH,1.0,True,True
+1,Indiana University Health University Hospital,Indianapolis,150056,INDIANA UNIVERSITY HEALTH,STH,1.0,True,True
+69,Parkview LaGrange Hospital,LaGrange,151323,PARKVIEW LAGRANGE HOSPITAL,CAH,1.0,True,True
+83,Parkview DeKalb Hospital,Auburn,150045,PARKVIEW - DEKALB HEALTH,STH,1.0,True,True
+158,Monroe Hospital,Bloomington,150183,MONROE HOSPITAL,STH,1.0,True,True
+103,Memorial Hospital of South Bend,South Bend,150058,MEMORIAL HOSPITAL OF SOUTH BEND  INC,STH,1.0,True,True
+116,Parkview Wabash Hospital,Wabash,151310,PARKVIEW WABASH HOSPITAL  INC.,CAH,1.0,True,True
+101,Schneck Medical Center,Seymour,150065,SCHNECK MEDICAL CENTER,STH,1.0,True,True
+100,Rush Memorial Hospital,Rushville,151304,RUSH MEMORIAL HOSPITAL,CAH,1.0,True,True
+124,Riverview Health,Noblesville,150059,RIVERVIEW HOSPITAL,STH,1.0,True,True
+71,Marion General Hospital,Marion,150011,MARION GENERAL HOSPITAL,STH,1.0,True,True
+41,Putnam County Hospital,Greencastle,151333,PUTNAM COUNTY HOSPITAL,CAH,1.0,True,True
+128,Pulaski Memorial Hospital,Winamac,151305,PULASKI MEMORIAL HOSPITAL,CAH,1.0,True,True
+169,Physicians' Medical Center,New Albany,150172,PHYSICIANS MEDICAL CENTER,STH,1.0,True,True
+459,Rehabilitation Hospital of Indiana,Indianapolis,153028,REHABILITATION HOSPITAL OF INDIANA,RH,1.0,True,True
+2,Hancock Regional Hospital,Greenfield,150037,HANCOCK REGIONAL HOSPITAL,STH,1.0,True,True
+489,Lafayette Regional Rehabilitation Hospital,Lafayette,153042,LAFAYETTE REGIONAL REHABILITATION HO,RH,0.853,True,True
+493,AMG Specialty Hospital Central Indiana,Muncie,152025,CENTRAL INDIANA-AMG SPECIALTY HOSPIT,LTCH,0.846,True,True
+111,Ascension St. Vincent Heart Center,Indianapolis,150084,ASCENSION ST. VINCENT HOSPITAL,STH,0.81,True,True
+146,Ascension St. Vincent Stress Center,Indianapolis,150084,ASCENSION ST. VINCENT HOSPITAL,STH,0.801,True,True
+127,St. Vincent Seton Specialty Hospital of Lafayette,Lafayette,152021,ST VINCENT SETON SPECIALTY HOSP-LAF,LTCH,0.788,True,True
+60,Franciscan Health Lafayette East,Lafayette,150109,FRANCISCAN HEALTH LAFAYETTE,STH,0.778,True,True
+498,Indianapolis Rehabilitation Hospital at Carmel,Carmel,153048,INDIANAPOLIS REHABILITATION HOSPITAL,RH,0.776,True,True
+494,Rehabilitation Hospital of Northern Indiana,Mishawaka,153047,REHABILITATION HOSPITAL OF NORTHERN,RH,0.759,True,True
+756,Deaconess Gateway Hospital,Newburgh,150175,HEART HOSPITAL AT DEACONESS GATEWAY,STH,0.758,True,True
+55,Ascension St. Vincent Hospital Indianapolis,Indianapolis,150084,ASCENSION ST. VINCENT HOSPITAL,STH,0.752,True,True
+61,Franciscan Health Lafayette Central,Lafayette,150109,FRANCISCAN HEALTH LAFAYETTE,STH,0.75,True,True
+42,Decatur County Memorial Hospital,Greensburg,151332,DECATUR CO. MEMORIAL HOSPITAL,CAH,0.744,True,True
+150,Community Howard Specialty Hospital,Kokomo,153039,COMMUNITY HOWARD SPECIALITY HOSPITAL,RH,0.741,True,True
+419,Community Rehabilitation Hospital West,Brownsburg,153050,COMMUNITY REHABILITATION HOSPITAL WE,RH,0.732,True,True
+53,Indiana University Health Methodist Hospital,Indianapolis,150056,INDIANA UNIVERSITY HEALTH,STH,0.725,True,True
+490,Community Rehabilitation Hospital North,Indianapolis,153043,COMMUNITY REHABILITATION HOSPITAL NO,RH,0.724,True,True
+497,Community Rehabilitation Hospital South,Greenwood,153044,COMMUNITY REHABILITATION HOSPITAL SO,RH,0.724,True,True
+172,Franciscan Health Carmel,Carmel,150193,FRANCISCAN HEALTH ORTHOPEDIC CARMEL,STH,0.711,True,True
+26,Encompass Health Deaconess Rehabilitation Hospital,Newburgh,153025,ENCOMPASS HEALTH DEACONESS REHABILIT,RH,0.71,True,True
+107,Perry County Memorial Hospital,Tell City,151322,PERRY COUNTY HOSPITAL,CAH,0.697,True,True
+8,Margaret Mary Health,Batesville,151329,MARGARET MARY COMMUNITY HOSPITAL,CAH,0.694,True,True
+477,Regency Hospital of Northwest Indiana,East Chicago,152024,RH OF NORTHWEST INDIANA  LLC,LTCH,0.672,True,True
+453,Southern Indiana Rehabilitation Hospital,New Albany,153037,SOUTHERN INDIANA REHAB HOSPITAL,RH,0.665,True,True
+402,PAM Health Rehabilitation Hospital of Greater Indiana South,Clarksville,153046,PAM REHAB HOSP OF GREATER INDIANA,RH,0.635,True,True
+126,Parkview Ortho Hospital,Fort Wayne,150021,PARKVIEW HOSPITAL,STH,0.614,True,True
+139,Community Hospital North,Indianapolis,150128,COMMUNITY HOSPITAL SOUTH,STH,0.6,True,True
+27,Deaconess Midtown Hospital,Evansville,150082,DEACONESS HOSPITAL,STH,0.596,True,True
+82,Community Hospital (Munster),Munster,150125,COMMUNITY HOSPITAL,STH,0.596,True,True
+138,Community Hospital East,Indianapolis,150128,COMMUNITY HOSPITAL SOUTH,STH,0.58,True,True
+125,Parkview Regional Medical Center,Fort Wayne,150021,PARKVIEW HOSPITAL,STH,0.57,True,True
+32,Parkview Hospital Randallia,Fort Wayne,150021,PARKVIEW HOSPITAL,STH,0.558,True,True
+476,Parkview Behavioral Health,Fort Wayne,150021,PARKVIEW HOSPITAL,STH,0.546,True,True
+175,UChicago Medicine Northwest Indiana,Crown Point,152028,VIBRA HOSPITAL OF NORTHWEST INDIANA,LTCH,0.545,True,True
+81,Indiana University Health Ball Memorial Hospital,Muncie,150089,BALL MEMORIAL HOSPITAL,STH,0.539,True,True
+458,Bloomington Meadows Hospital,Bloomington,150051,IU HEALTH BLOOMINGTON HOSPITAL,STH,0.53,True,True
+62,Riley Hospital for Children at Indiana University Health,Indianapolis,150056,INDIANA UNIVERSITY HEALTH,STH,0.527,True,True
+492,Doctors NeuroPsychiatric Hospital,Bremen,150180,DOCTORS NEUROMEDICAL HOSPITAL,STH,0.508,True,True
+31,Lutheran Hospital of Indiana,Fort Wayne,150047,LUTHERAN DOWNTOWN HOSPITAL,STH,0.5,True,True
+65,Witham Health Services,Lebanon,150104,WITHAM MEMORIAL HOSPITAL,STH,0.5,True,True
+5,Ascension St. Vincent Warrick,Boonville,151325,ASCENSION ST. VINCENT WARRICK,CAH,1.0,False,True
+70,Norton King's Daughters' Health,Madison,150069,KINGS DAUGHTERS HOSPITAL,STH,0.495,True,True
+67,Parkview Logansport Hospital,Logansport,150072,MEMORIAL HOSPITAL LOGANSPORT,STH,0.482,True,True
+48,Parkview Huntington Hospital,Huntington,150091,HUNTINGTON MEMORIAL HOSPITAL,STH,0.482,True,True
+57,Norton Clark Hospital,Jeffersonville,150009,CLARK MEMORIAL HOSPITAL,STH,0.474,True,True
+54,Norton Scott Hospital,Scottsburg,151334,SCOTT MEMORIAL HOSPITAL,CAH,0.474,True,True
+491,NeuroPsychiatric Hospital of Indianapolis,Indianapolis,152007,KINDRED HOSPITAL INDIANAPOLIS,LTCH,0.473,True,True
+85,Henry Community Health,New Castle,150030,HENRY COUNTY MEMORIAL HOSPITAL,STH,0.458,True,True
+441,Deaconess Cross Pointe Center,Evansville,150082,DEACONESS HOSPITAL,STH,0.457,True,True
+129,Northwest Health-Starke,Knox,150102,STARKE MEMORIAL HOSPITAL,STH,0.457,True,True
+51,Eskenazi Health - Sidney & Lois Eskenazi Hospital,Indianapolis,150024,ESKENAZI HEALTH,STH,0.452,True,True
+50,Parkview Whitley Hospital,Columbia City,150101,WHITLEY MEMORIAL HOSPITAL,STH,0.448,True,True
+11,Indiana University Health Bloomington Hospital,Bloomington,150051,IU HEALTH BLOOMINGTON HOSPITAL,STH,0.443,True,True
+464,Select Specialty Hospital - Evansville,Evansville,152014,SSH - EVANSVILLE  LLC.,LTCH,0.442,True,True
+30,Select Medical Rehabilitation Hospital at Lutheran Hospital,Fort Wayne,153030,REHABILITATION HOSPITAL OF FT WAYNE,RH,0.44,True,True
+439,Powers Rehabilitation Center,Crown Point,153045,COMMUNITY STROKE AND REHABILITATION,RH,0.433,True,True
+46,Indiana University Health Blackford Hospital,Hartford City,151302,IU HEALTH BLACKFORD HOSPITAL,CAH,0.425,True,True
+35,Indiana University Health Frankfort Hospital,Frankfort,151316,IU HEALTH FRANKFORT HOSPITAL,CAH,0.425,True,True
+38,"Methodist Hospitals, Northlake Campus",Gary,150002,METHODIST HOSPITALS  INC,STH,0.424,True,True
+705,NW Indiana Hospital,Hammond,152012,KINDRED HOSPITAL NORTHWEST INDIANA,LTCH,0.411,True,True
+117,Lutheran Kosciusko Hospital,Warsaw,150133,KOSCIUSKO COMMUNITY HOSPITAL,STH,0.41,True,True
+176,Parkview Kosciusko Hospital,Warsaw,150133,KOSCIUSKO COMMUNITY HOSPITAL,STH,0.41,True,True
+74,River Bend Hospital,West Lafayette,,,,,,False
+163,RiverCrest Specialty Hospital,Mishawaka,,,,,,False
+451,Four County Counseling Center,Logansport,,,,,,False
+457,"The Otis R. Bowen Center for Human Services, Inc.",Warsaw,,,,,,False
+173,St Vincent Neighborhood Hospitals,Noblesville,,,,,,False
+162,Indiana University Health Arnett Hospital,Lafayette,,,,,,False
+710,Hendricks Regional Health Brownsburg Hospital,Brownsburg,,,,,,False
+136,Indiana University Health White Memorial Hospital,Monticello,,,,,,False
+152,Indiana University Health West Hospital,Avon,,,,,,False
+115,Indiana University Health Tipton Hospital,Tipton,,,,,,False
+170,Indiana University Health Saxony Hospital,Fishers,,,,,,False
+36,Indiana University Health Paoli Hospital,Paoli,,,,,,False
+155,Indiana University Health North Hospital,Carmel,,,,,,False
+72,Indiana University Health Morgan Hospital,Martinsville,,,,,,False
+91,Indiana University Health Jay Hospital,Portland,,,,,,False
+401,PAM Health Rehabilitation Hospital of Greater Indiana North,New Albany,,,,,,False
+151,Community Heart and Vascular Hospital Shadeland Ave,Indianapolis,,,,,,False
+153,Wellstone Regional Hospital,Jeffersonville,,,,,,False
+485,NW Indiana - AMG Specialty Hospital,Crown Point,,,,,,False
+141,Valle Vista Health System,Greenwood,,,,,,False
+89,The Women's Hospital,Newburgh,,,,,,False
+166,The Orthopedic Hospital of Lutheran Health Network,Fort Wayne,,,,,,False
+178,Franciscan Health Michigan City at LaPorte,LaPorte,,,,,,False
+177,Marion Health East,Gas City,,,,,,False
+300,Norton Medical Center,Jeffersonville,,,,,,False
+301,Norton Cancer Institute - Corydon,Corydon,,,,,,False
+302,Norton Cancer Institute - Jeffersonville,Jeffersonville,,,,,,False
+17,Reid Health Connersville,Connersville,,,,,,False
+727,Riverview Health Emergency Room and Urgent Care West Carmel,Zionsville,,,,,,False
+58,Parkview Noble Hospital,Kendallville,,,,,,False
+154,OrthoIndy Hospital,Indianapolis,,,,,,False
+9999,NW Indiana 24/7 ER & HOSPITAL,Hammond,,,,,,False
+113,Northwest Health-Porter,Valparaiso,,,,,,False
+64,Northwest Health-La Porte,La Porte,,,,,,False
+105,Mishawaka Medical Center,Mishawaka,,,,,,False
+456,Michiana Behavioral Health,Plymouth,,,,,,False
+49,"Methodist Hospitals, Southlake Campus",Merrillville,,,,,,False
+724,Riverview Health Westfield Hospital,Westfield,,,,,,False
+725,Riverview Health Emergency Room & Urgent Care Fishers,Fishers,,,,,,False
+726,Riverview Health Emergency Room & Urgent Care Carmel,Carmel,,,,,,False
+94,Reid Health,Richmond,,,,,,False
+479,Regency Hospital of Porter County,Portage,,,,,,False
+90,Plymouth Medical Center,Plymouth,,,,,,False

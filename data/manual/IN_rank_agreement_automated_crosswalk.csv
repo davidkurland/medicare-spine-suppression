@@ -1,0 +1,17 @@
+grp,year,rho_hospital_automated
+cranial,2017,0.825
+cranial,2018,0.817
+cranial,2019,0.856
+cranial,2020,0.812
+cranial,2021,0.829
+cranial,2022,0.877
+cranial,2023,0.877
+cranial,2024,0.960
+spine,2017,0.232
+spine,2018,0.197
+spine,2019,0.186
+spine,2020,0.115
+spine,2021,0.143
+spine,2022,0.168
+spine,2023,0.072
+spine,2024,0.215

@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# downloads and everything derived from them stay local: data/interim holds record-level Texas files and
+# Indiana hospital cells of 1-10 discharges, which the data use agreements do not allow to be shared
+data/raw/
+data/interim/
+reports/
+figures/
+manuscript/

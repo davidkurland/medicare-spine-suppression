@@ -1,0 +1,3 @@
+# CMS OPPS final rule addenda (Addendum B and Addendum E), CY2019-CY2024, one zip per year, from the OPPS
+# regulations and notices page; save as data/raw/cms_opps_addenda/opps_addenda_<year>.zip
+https://www.cms.gov/medicare/payment/prospective-payment-systems/hospital-outpatient/regulations-notices
