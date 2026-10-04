@@ -3,6 +3,9 @@ message: "If you use this code or these crosswalks, please cite the archived rel
 title: "Code and crosswalks for: Where Did the Spine Surgery Go? Small-Cell Suppression, Medicare Advantage, and Pooled Episode Pricing in Medicare Inpatient Spine Surgery, 2013-2024"
 type: dataset
 version: v1.0.0
+doi: 10.5281/zenodo.23134875
+repository-code: "https://github.com/davidkurland/medicare-spine-suppression"
+date-released: 2026-10-04
 license: CC-BY-4.0
 authors:
   - family-names: Kurland

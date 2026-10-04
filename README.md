@@ -1,5 +1,7 @@
 # Where Did the Spine Surgery Go?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23134875.svg)](https://doi.org/10.5281/zenodo.23134875)
+
 Analysis code, hospital crosswalks, and download manifests for:
 
 > Kurland DB, Sastry R, Niu T, Oyelese A. Where Did the Spine Surgery Go? Small-Cell Suppression, Medicare
@@ -115,6 +117,16 @@ Opus 5.5, and Fable 5.1, in Claude Code; Anthropic PBC) under the direction of t
 disclosed in the paper's Methods and Acknowledgment. The authors set the study questions, data sources,
 definitions, and analytic approach. The model generated no data, and every number in the paper traces to a
 script output built from the public files.
+
+## Citing
+
+Please cite the paper and the archived release of this code:
+
+> Kurland DB, Sastry R, Niu T, Oyelese A. Code and crosswalks for: Where Did the Spine Surgery Go? Small-Cell
+> Suppression, Medicare Advantage, and Pooled Episode Pricing in Medicare Inpatient Spine Surgery, 2013-2024.
+> Version v1.0.0. Zenodo; 2026. doi:10.5281/zenodo.23134875
+
+The concept DOI 10.5281/zenodo.23134874 always resolves to the latest version.
 
 ## Licence
 
